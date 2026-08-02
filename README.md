@@ -23,8 +23,6 @@ This API eliminates the repetitive, error-prone process of generating developmen
 
 Upgrade to the Pro version for **$59.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://devforgetools.gumroad.com/l/vnovr)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/eVq8wP12D1g05tubzScZc0b)** — Secure checkout
 
 ## Installation
@@ -36,7 +34,6 @@ Upgrade to the Pro version for **$59.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://devforgetools.gumroad.com/l/vnovr)
 
 ## License
 
